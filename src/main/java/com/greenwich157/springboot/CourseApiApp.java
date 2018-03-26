@@ -2,9 +2,6 @@ package com.greenwich157.springboot;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-@Configuration
-@ComponentScan
-@EnableAutoConfiguration
 @SpringBootApplication
 public class CourseApiApp {
 
