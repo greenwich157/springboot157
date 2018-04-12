@@ -13,6 +13,6 @@ public class CourseApiApp extends SpringBootServletInitializer {
 	
 	@Override
 	protected SpringApplicationBuilder configure(SpringApplicationBuilder builder) {
-		return builder.sources(MicroserviceBootApplication.class);
+		return builder.sources(CourseApiApp.class);
 
 }
