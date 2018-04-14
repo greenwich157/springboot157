@@ -8,7 +8,7 @@ class HelloControllerTest {
 
 	@Test
 	void testSayHi() {
-
+		fail("Not yet implemented");
 	}
 
 }
