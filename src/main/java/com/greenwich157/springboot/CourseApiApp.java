@@ -11,7 +11,7 @@ public class CourseApiApp extends SpringBootServletInitializer {
 		// TODO Auto-generated method stub
 		SpringApplication.run(CourseApiApp.class, args);
 	}
-	
+	// test comments
 	@Override
 	protected SpringApplicationBuilder configure(SpringApplicationBuilder builder) {
 		return builder.sources(CourseApiApp.class);
